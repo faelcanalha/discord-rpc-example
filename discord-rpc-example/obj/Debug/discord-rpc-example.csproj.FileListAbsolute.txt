@@ -1,0 +1,3 @@
+C:\Users\Administrator\source\repos\discord-rpc-example\discord-rpc-example\bin\Debug\discord-rpc-example.exe
+C:\Users\Administrator\source\repos\discord-rpc-example\discord-rpc-example\bin\Debug\DiscordRPC.dll
+C:\Users\Administrator\source\repos\discord-rpc-example\discord-rpc-example\bin\Debug\Newtonsoft.Json.dll
